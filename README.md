@@ -1,0 +1,1 @@
+- 👋 Hi, we are @GammaMarkets a collective of nostr decentralized marketplaces leaning towards an interoperable specification.
